@@ -8,4 +8,8 @@ feature2()
 {
 this is feature 2
 }
+securitypatch()
+{
+this is the security patch
+}
 }
